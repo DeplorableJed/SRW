@@ -1,0 +1,10 @@
+DUO_API_INTEGRATION_KEY = 'DIETSNHT4GF675SLQONV'
+DUO_API_SECRET_KEY = 'IYz6b5kb2wjx4Oim7umukABTEvUOTlFkXEHdi3vF'
+DUO_API_HOSTNAME = 'api-6cf3553d.duosecurity.com'
+PHONE_NUMBER = '2066837594'  # Must be a valid phone number
+PHONE_NAME = 'iPhone12' # Example iPhone12 or Samsung Galaxy
+PHONE_PLATFORM = 'apple ios' # Example 'apple ios' or 'google android'
+USERNAME = 'Jedly75' # where XX is your 2 digit pod number
+FIRSTNAME = 'Demeule' # where XX is your 2 digit pod number
+LASTNAME = 'Jedly76' # where XX is your 2 digit pod number
+EMAIL = 'jed@nterone.com' # where XX is your 2 digit pod number
