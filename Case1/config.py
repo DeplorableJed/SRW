@@ -24,4 +24,4 @@ UUSERGUIDE = 'https://docs.umbrella.com/umbrella-user-guide/docs/getting-started
 
 WEBEX_TEAMS_URL = 'https://webexapis.com/v1'
 WEBEX_TEAMS_AUTH = 'Bearer ' + 'MDYyODAyZjAtYjc2Ny00OWU0LTg4Y2EtNzZjYzJhYjY1NTVhY2M0ZGE1MDEtZTIx_PF84_e17d4b4d-d1d4-4ebd-8b20-7735538ecf7b' # Enter your token good for 12 hours here
-WEBEX_TEAMS_SPACE_NAME = 'Class Space SRW' # Get from Webex
+WEBEX_TEAMS_SPACE_NAME = 'Class Space SRW' # Get Room name exactly from Webex
